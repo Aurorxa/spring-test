@@ -4,7 +4,7 @@ import io.github.linpeilie.annotations.MapperConfig;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@MapperConfig(mapperPackage = "com.github")
+@MapperConfig(mapperPackage = "com.github.springtest")
 public class MapStructPlusConfig {
-    
+
 }
